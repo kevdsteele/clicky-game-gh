@@ -5,7 +5,7 @@ function Navbar(props) {
   return (
 
 <nav className="navbar sticky-top">
-  <a href="#">
+  <a href="/">
     <img src="marvel-logo.jpg"  width="100" height="41" className="d-inline-block pr-2" alt=""/>
     Clicky Game
   </a>
