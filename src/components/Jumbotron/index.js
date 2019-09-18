@@ -10,7 +10,7 @@ const divStyle = {
 function Jumbotron() {
   return (
     <div className="jumbotron" style={divStyle}>
-      <h1 className="text-center pb-2">Clicky Memory Game!</h1>
+      <h2 className="text-center pb-2">Clicky Memory Game!</h2>
       <div className="text-center w-60 mr-auto ml-auto">
       <p >
       Can you remember which images you have clicked? 
