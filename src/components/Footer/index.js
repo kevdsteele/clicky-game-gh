@@ -4,9 +4,8 @@ import "./style.css"
 function Footer() {
   return (
 
-<div className="footer  d-block text-center">
-
-    Clicky Game
+<div className="footer d-block text-center">
+   <p className="pt-4">Clicky Game by Kevin Steele</p> 
 </div>
 
   );
